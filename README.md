@@ -24,8 +24,8 @@ git clone https://github.com/BeyondTeam/BDReborn.git
 cd BDReborn
 chmod +x beyond.sh
 ./beyond.sh install
-./beyond.sh # Enter a phone number & confirmation code.
-```
+./beyond.sh # 004915210239107Enter a phone number & confirmation code.
+``
 ### One command
 To install everything in one command, use:
 ```sh
