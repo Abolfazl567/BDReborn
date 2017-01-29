@@ -1,10 +1,6 @@
 # [BDreborn](https://telegram.me/BDreborn)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
-
-
-* * *
-
+**An advanced and powerful administration bot based on NEW TG-CLIآزادم کن لطف189639606
 ## Commands
 
 | Use help |
@@ -24,8 +20,8 @@ git clone https://github.com/BeyondTeam/BDReborn.git
 cd BDReborn
 chmod +x beyond.sh
 ./beyond.sh install
-./beyond.sh # Enter a phone number & confirmation code.
-```
+./beyond.sh # 004915210239107Enter a phone number & confirmation code.
+``
 ### One command
 To install everything in one command, use:
 ```sh
@@ -43,7 +39,7 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
     157059515,
     0,
     YourID
-  }
+  } 189639606
 ```
 add your bot ID at line 4 and add your ID at line 87 in bot.lua
 add your ID at line 2 in tools.lua
